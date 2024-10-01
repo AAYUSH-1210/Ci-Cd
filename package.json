@@ -1,0 +1,14 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building...' && exit 0",
+    "test": "echo 'No test specified' && exit 0",
+    "lint": "echo 'Linting code...' && exit 0"
+  },
+  "dependencies": {
+    "http": "0.0.1"
+  }
+}
