@@ -1,5 +1,5 @@
 // index.js
-const http = require('http');
+const http = require('http'); // Use Node.js built-in http module
 
 const server = http.createServer((req, res) => {
     res.statusCode = 200;
