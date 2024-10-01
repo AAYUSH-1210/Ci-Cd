@@ -8,5 +8,7 @@
     "test": "echo 'No test specified' && exit 0",
     "lint": "echo 'Linting code...' && exit 0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
 }
